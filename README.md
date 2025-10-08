@@ -1,5 +1,5 @@
 # Heart Disease Detection Using Multilayer Neural Networks  
-### Comparative Analysis with Hopfield Network and Fuzzy Model
+### Comparative Analysis with Hopfield Network
 
 ---
 
@@ -31,7 +31,7 @@ The focus is on achieving high prediction accuracy while preserving interpretabi
 - **Long Short-Term Memory (LSTM)** network as a performance benchmark.
 
 ### Proposed Method:
-- **Multilayer Neural Network (MLNN)** integrated with **Fuzzy Logic-based Feature Weighting** for improved feature representation.
+- **Multilayer Neural Network (MLNN)** integrated with 
 
 ---
 
@@ -49,7 +49,6 @@ The dataset includes attributes such as:
 - Handling missing data  
 - Normalization and scaling  
 - Outlier detection and removal  
-- Feature selection and fuzzy weighting  
 
 ---
 
@@ -76,14 +75,13 @@ The dataset includes attributes such as:
 
 ## Results and Evaluation
 ### Training and Convergence Analysis:
-- MLNN shows faster and smoother convergence compared to Hopfield and Fuzzy models.  
+- MLNN shows faster and smoother convergence compared to Hopfield
 
 ### Final Performance Metrics:
 | Model | Accuracy | Precision | Recall | F1-Score |
 |--------|-----------|-----------|---------|-----------|
 | MLNN (Proposed) | 96.4% | 95.8% | 97.1% | 96.4% |
 | Hopfield Network | 89.7% | 88.5% | 90.2% | 89.3% |
-| Fuzzy Model | 91.2% | 90.7% | 91.5% | 91.1% |
 
 ### Confusion Matrix and Classification Report:
 Included in the results section with graphical plots and interpretation.
