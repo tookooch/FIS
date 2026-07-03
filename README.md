@@ -9,7 +9,7 @@ The proposed method is compared with two alternative approaches — **Hopfield N
 
 ---
 
-## 🔍 Introduction
+## Introduction
 Heart disease remains one of the leading causes of death worldwide.  
 Accurate and early prediction can significantly improve treatment outcomes.  
 Machine learning and deep learning techniques can identify hidden patterns in medical data, making them powerful tools for disease prediction.
